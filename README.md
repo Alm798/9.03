@@ -11,7 +11,7 @@
 
 ![HAPROXY conf file](https://github.com/Alm798/9.03/blob/main/haproxy.cfg)
 
-![Screen2]([img/2.png](https://github.com/Alm798/9.03/blob/main/2.png)		
+![Screen2](https://github.com/Alm798/9.03/blob/main/2.png)		
 
 # Задание 2
 ### Запустите три simple python сервера на своей виртуальной машине на разных портах
