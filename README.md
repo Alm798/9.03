@@ -21,4 +21,4 @@
 
 ![HAPROXY conf file 2](https://github.com/Alm798/9.03/blob/main/haproxy1.cfg)
 
-![Screen4]([img/4.png](https://github.com/Alm798/9.03/blob/main/Screenshot_5.jpg)
+![Screen4](https://github.com/Alm798/9.03/blob/main/Screenshot_5.jpg)
