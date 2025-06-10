@@ -9,7 +9,7 @@
 ### Настройте балансировку Round-robin на 4 уровне.
 ### На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-![HAPROXY conf file](https://github.com/Alm798/9.03/blob/main/haproxy.cfg)
+[HAPROXY conf file](https://github.com/Alm798/9.03/blob/main/haproxy.cfg)
 
 ![Screen2](https://github.com/Alm798/9.03/blob/main/2.png)		
 
@@ -19,6 +19,6 @@
 ### HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 ### На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
-![HAPROXY conf file 2](https://github.com/Alm798/9.03/blob/main/haproxy1.cfg)
+[HAPROXY conf file 2](https://github.com/Alm798/9.03/blob/main/haproxy1.cfg)
 
 ![Screen4](https://github.com/Alm798/9.03/blob/main/Screenshot_5.jpg)
